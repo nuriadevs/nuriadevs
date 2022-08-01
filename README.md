@@ -1,7 +1,6 @@
 <h1 align="center">Hi there👋, I'm Nuria </h1>
 <h3 align="center">📱 Cross-platform App Developer & 🌐 Web Developer </h3>
 
-<br>
 
 <h2 align="left">Welcome</h2>
 
