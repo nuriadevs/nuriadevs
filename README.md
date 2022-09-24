@@ -10,7 +10,7 @@
 
 - 👩‍💻 Always looking to collaborate on interesting projects.
 
-- :video_game: Interested in game development with C# and Unity
+- 📱  Interested in mobile app development with Jetpack compose.
 
 - ⚡ Fun fact: I love music and video games
 
