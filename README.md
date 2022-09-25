@@ -6,7 +6,7 @@
 
 - 🔭 I am currently finishing my studies in Cross-platform App Development & Web Development
 
-- 🌱 I’m currently learning JavaScript frameworks, libraries and Android app development
+- 🌱 I’m currently learning Jetpack Compose, Android app development and JavaScript frameworks.
 
 - 👩‍💻 Always looking to collaborate on interesting projects.
 
