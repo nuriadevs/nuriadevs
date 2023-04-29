@@ -6,6 +6,8 @@
 
 - 🔭 I am 📱Cross-platform App Developer & 🌐 Web Developer.
 
+- 💻 I'm available for work remotely.
+
 - 👩‍💻 Always looking to collaborate on interesting projects.
 
 - 📱 I am currently focused on Jetpack Compose and Android app development.
@@ -112,7 +114,7 @@
 
 <br>
 
-<h3 align="left">Connect with me</h3>
+<h3 align="left">Connect with me 🤝</h3>
 
 <p align="left"> 
 
