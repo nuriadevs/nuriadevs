@@ -4,13 +4,11 @@
 
 <h2 align="left">Welcome</h2>
 
-- 🔭 I am currently finishing my studies in Cross-platform App Development & Web Development
-
-- 🌱 I’m currently learning Jetpack Compose, Android app development and JavaScript frameworks.
+- 🔭 I am 📱Cross-platform App Developer & 🌐 Web Developer.
 
 - 👩‍💻 Always looking to collaborate on interesting projects.
 
-- 📱  Interested in mobile app development with Jetpack compose.
+- 📱 I am currently focused on Jetpack Compose and Android app development.
 
 - ⚡ Fun fact: I love music and video games
 
