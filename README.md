@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Nuria<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">📱 Cross-platform App Developer & 🌐 Web Developer </h3>
 <br>
-<p style="text-align:justify;">Welcome! I am a  cross-platform app developer who loves to create user-friendly applications. I am available for remote work and always interested in collaborating on interesting projects. Currently, I am focused on Jetpack Compose and Android app development. Fun fact: I love music and video games..</p>
+<p style="text-align:justify;">Welcome! I am a junior cross-platform app developer who enjoys creating user-friendly applications. I am available for remote work and always interested in collaborating on interesting projects. Currently, I am focused on Jetpack Compose and Android app development. Fun fact: I love music and video games.</p>
 
 <h1 align="left">🎯️ My Skills
 </h1>
