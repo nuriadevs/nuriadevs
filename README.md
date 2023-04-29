@@ -1,22 +1,10 @@
-<h1 align="center">Hi there👋, I'm Nuria </h1>
+<h1 align="center">Hi , I'm Nuria<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">📱 Cross-platform App Developer & 🌐 Web Developer </h3>
-
-
-<h2 align="left">Welcome</h2>
-
-- 🔭 I am 📱Cross-platform App Developer & 🌐 Web Developer.
-
-- 💻 I'm available for work remotely.
-
-- 👩‍💻 Always looking to collaborate on interesting projects.
-
-- 📱 I am currently focused on Jetpack Compose and Android app development.
-
-- ⚡ Fun fact: I love music and video games
-
 <br>
+<p style="text-align:justify;">Welcome! I am a  cross-platform app developer who loves to create user-friendly applications. I am available for remote work and always interested in collaborating on interesting projects. Currently, I am focused on Jetpack Compose and Android app development. Fun fact: I love music and video games..</p>
 
-<h2 align="left">Languages and Tools</h2>
+<h1 align="left">🎯️ My Skills
+</h1>
 <h3 align="left"> Programming Languages</h3>
 
 <p align="left"> 
@@ -24,9 +12,13 @@
 
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"/> 
 
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="php"/> 
+
 <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin"/> 
 
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="c#"/> 
+
+<img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="python"/> 
 
 </p>
 
@@ -44,21 +36,19 @@
 
 <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/> 
 
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="reactJS"/> 
-
-<img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="vueJS"/> 
-
 </p>
 
-<h3 align="left">Backend Development</h3>
+<h3 align="left">Databases</h3>
 
 <p align="left"> 
-
-<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="php"/> 
 
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/> 
 
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/> 
+
+<img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23316192.svg?style=for-the-badge&logo=firebase&logoColor=white">
+
+<img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
 
 </p>
 
@@ -69,7 +59,7 @@
 
 <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="adobexd"/> 
 
-<img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF" alt="gimp"/> 
+<img src="https://img.shields.io/badge/photoshop-023e8a?style=for-the-badge&logo=adobephotoshop&logoColor=FFFFFF" alt="gimp"/> 
 
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="canva"/> 
 
@@ -91,14 +81,21 @@
 </p>
 
 
-<h3 align="left">Version Control</h3>
+<h3 align="left">Software & Tools</h3>
 
 <p align="left"> 
 
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"/> 
 
-</p>
+<img src="https://img.shields.io/badge/sourcetree-0078D6.svg?style=for-the-badge&logo=sourcetree&logoColor=white" alt="git"/> 
 
+<img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen"/> 
+
+<img src="https://img.shields.io/badge/stackoverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="codepen"/> 
+
+<img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white" alt="codepen"/> 
+
+</p>
 
 <h3 align="left">Operating System</h3>
 
@@ -111,9 +108,8 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android"/> 
 
 </p>
-
-<br>
-
+</p>
+<hr/>
 <h3 align="left">Connect with me 🤝</h3>
 
 <p align="left"> 
@@ -134,5 +130,4 @@
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram"/> 
 </a>
 
-</p>
-
+🍀 Credit: [nuriadevs](https://github.com/nuriadevs)
