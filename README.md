@@ -38,6 +38,15 @@
 
 </p>
 
+<h3 align="left">Backend Development</h3>
+
+<p align="left"> 
+
+<img src="https://img.shields.io/badge/laravel-%23323330.svg?style=for-the-badge&logo=laravel&logoColor=%FF0000" alt="laravel"/> 
+
+<img src="https://img.shields.io/badge/postman-%23323330.svg?style=for-the-badge&logo=postman&logoColor=%FF0000" alt="postman"/> 
+</p>
+
 <h3 align="left">Databases</h3>
 
 <p align="left"> 
