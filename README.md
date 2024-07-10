@@ -161,11 +161,6 @@ I am available for remote work and always interested in collaborating on interes
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/> 
 </a>
 
-
-<a href="https://twitter.com/nuriadevs" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="twitter"/> 
-</a>
-
 <a href="https://instagram.com/nuriadevs" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram"/> 
 </a>
