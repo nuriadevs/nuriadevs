@@ -1,11 +1,14 @@
 <h1 align="center">Hi , I'm Nuria<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center"> Software Developer & Artificial Intelligence Specialist </h3>
+<h3 align="center"> IA & Software Developer</h3>
 <br>
 <p style="text-align:justify;">Welcome! I am a junior software developer specialized in Artificial Intelligence and Big Data who enjoys creating user-friendly applications. 
 I am available for remote work and always interested in collaborating on interesting projects.</p>
 
 <h1 align="left">🎯️ My Skills
 </h1>
+
+<p>  I have worked with various technologies, tools, and languages that have allowed me to develop mobile applications, backend systems, and apply artificial intelligence techniques. Here are some of the tools and languages I have worked with:</p>
+
 <h3 align="left"> Programming Languages</h3>
 
 <p align="left"> 
@@ -117,6 +120,8 @@ I am available for remote work and always interested in collaborating on interes
 
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="visualstudio"/> 
 
+<img src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white" alt="pycharm"/> 
+
 </p>
 
 
@@ -157,6 +162,11 @@ I am available for remote work and always interested in collaborating on interes
 
 <p align="left"> 
 
+<a href="https://nuriavazquez.dev/" target="_blank">
+<img src="https://img.shields.io/badge/Website-4285F4.svg?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="web"/> 
+</a>
+
+
 <a href="https://linkedin.com/in/nuriavazquezflores" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/> 
 </a>
@@ -164,5 +174,8 @@ I am available for remote work and always interested in collaborating on interes
 <a href="https://instagram.com/nuriadevs" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram"/> 
 </a>
+
+
+
 
 🍀 Credit: [nuriadevs](https://github.com/nuriadevs)
