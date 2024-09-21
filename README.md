@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Nuria<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center"> IA & Software Developer</h3>
+<h3 align="center"> Software Developer</h3>
 <br>
 <p style="text-align:justify;">Welcome! I am a junior software developer specialized in Artificial Intelligence and Big Data who enjoys creating user-friendly applications. 
 I am available for remote work and always interested in collaborating on interesting projects.</p>
