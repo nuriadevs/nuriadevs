@@ -12,17 +12,21 @@ I am available for remote work and always interested in collaborating on interes
 <h3 align="left"> Programming Languages</h3>
 
 <p align="left"> 
+
+<img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="php"/> 
+
 <img src="https://img.shields.io/badge/Java-FF2D00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java"/> 
 
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"/> 
 
-<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="php"/> 
 
 <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin"/> 
 
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="c#"/> 
 
-<img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="python"/> 
+
 
 </p>
 
@@ -60,8 +64,6 @@ I am available for remote work and always interested in collaborating on interes
 
 <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="sass"/> 
 
-<img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery"/> 
-
 <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/> 
 
 </p>
@@ -78,6 +80,11 @@ I am available for remote work and always interested in collaborating on interes
 
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="node"/> 
 
+<img src="https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
+
+
 </p>
 
 <h3 align="left">Databases</h3>
@@ -90,7 +97,7 @@ I am available for remote work and always interested in collaborating on interes
 
 <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23316192.svg?style=for-the-badge&logo=firebase&logoColor=white">
 
-<img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 </p>
 
@@ -100,8 +107,6 @@ I am available for remote work and always interested in collaborating on interes
 <p align="left"> 
 
 <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="adobexd"/> 
-
-<img src="https://img.shields.io/badge/photoshop-023e8a?style=for-the-badge&logo=adobephotoshop&logoColor=FFFFFF" alt="gimp"/> 
 
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="canva"/> 
 
@@ -167,15 +172,8 @@ I am available for remote work and always interested in collaborating on interes
 </a>
 
 
-<a href="https://linkedin.com/in/nuriavazquezflores" target="_blank">
+<a href="https://linkedin.com/in/nuria-vazquez" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/> 
 </a>
-
-<a href="https://instagram.com/nuriadevs" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram"/> 
-</a>
-
-
-
 
 🍀 Credit: [nuriadevs](https://github.com/nuriadevs)
