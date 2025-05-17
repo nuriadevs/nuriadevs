@@ -1,15 +1,37 @@
-<h1 align="center">Hi , I'm Nuria<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center"> Software Developer</h3>
-<br>
+![Banner](media/banner.png)
+
+<h1 align="left">🤝 Connect with me</h1>
+
+<p align="left"> 
+
 <p style="text-align:justify;">Welcome! I am a junior software developer specialized in Artificial Intelligence and Big Data who enjoys creating user-friendly applications. 
 I am available for remote work and always interested in collaborating on interesting projects.</p>
 
-<h1 align="left">🎯️ My Skills
+<a href="https://nuriavazquez.dev/" target="_blank">
+<img src="https://img.shields.io/badge/Website-4285F4.svg?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="web"/> 
+</a>
+
+
+<a href="https://linkedin.com/in/nuria-vazquez" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/> 
+</a>
+
+<a href="mailto:nuriadevs@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/> 
+</a>
+
+<a href="https://www.youtube.com/@nuriavazquezdev" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube"/> 
+</a>
+
+
+
+<h1 align="left">💻 Tech Stack
 </h1>
 
 <p>  I have worked with various technologies, tools, and languages that have allowed me to develop mobile applications, backend systems, and apply artificial intelligence techniques. Here are some of the tools and languages I have worked with:</p>
 
-<h3 align="left"> Programming Languages</h3>
+<h2 align="left"> Programming Languages</h2>
 
 <p align="left"> 
 
@@ -23,17 +45,13 @@ I am available for remote work and always interested in collaborating on interes
 
 </p>
 
-<h3 align="left">Artificial Intelligence and Big Data</h3>
+<h2 align="left">Artificial Intelligence and Big Data</h2>
 
 <p align="left"> 
 
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws"/> 
 
 <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="powerbi"/> 
-
-<img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" alt="hadoop"/> 
-
-<img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" alt="apachehive"/> 
 
 <img src="https://img.shields.io/badge/Jupyter-FFA500?style=for-the-badge&labelColor=FFFFFF&logo=jupyter" alt="jupyter"/> 
 
@@ -47,7 +65,7 @@ I am available for remote work and always interested in collaborating on interes
 
 </p>
 
-<h3 align="left">Frontend Development</h3>
+<h2 align="left">Frontend Development</h2>
 
 <p align="left"> 
 
@@ -63,7 +81,7 @@ I am available for remote work and always interested in collaborating on interes
 
 </p>
 
-<h3 align="left">Backend Development</h3>
+<h2 align="left">Backend Development</h2>
 
 <p align="left"> 
 
@@ -85,7 +103,7 @@ I am available for remote work and always interested in collaborating on interes
 
 </p>
 
-<h3 align="left">Databases</h3>
+<h2 align="left">Databases</h2>
 
 <p align="left"> 
 
@@ -100,7 +118,7 @@ I am available for remote work and always interested in collaborating on interes
 </p>
 
 
-<h3 align="left">Design</h3>
+<h2 align="left">Design</h2>
 
 <p align="left"> 
 
@@ -111,7 +129,7 @@ I am available for remote work and always interested in collaborating on interes
 </p>
 
 
-<h3 align="left">IDES/Editors</h3>
+<h2 align="left">IDES/Editors</h2>
 
 <p align="left"> 
 
@@ -127,7 +145,7 @@ I am available for remote work and always interested in collaborating on interes
 </p>
 
 
-<h3 align="left">Software /Tools/S.O</h3>
+<h2 align="left">Software /Tools/S.O</h2>
 
 <p align="left"> 
 
@@ -139,10 +157,12 @@ I am available for remote work and always interested in collaborating on interes
 
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows"/> 
 
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white" alt="ubuntu"/> 
+
 
 </p>
 
-<h3 align="left">Remote</h3>
+<h2 align="left">Remote</h2>
 
 <p align="left"> 
 
@@ -152,26 +172,11 @@ I am available for remote work and always interested in collaborating on interes
 
 <img src="https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white" alt="google meet"/> 
 
-
-
 </p>
 </p>
+
 <hr/>
-<h3 align="left">Connect with me 🤝</h3>
+<h1 align="left"> 📊 GitHub Stats:</h1>
 
-<p align="left"> 
+![](https://github-readme-stats.vercel.app/api?username=nuriadevs&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-<a href="https://nuriavazquez.dev/" target="_blank">
-<img src="https://img.shields.io/badge/Website-4285F4.svg?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="web"/> 
-</a>
-
-
-<a href="https://linkedin.com/in/nuria-vazquez" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/> 
-</a>
-
-<a href="mailto:nuriadevs@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/> 
-</a>
-
-🍀 Credit: [nuriadevs](https://github.com/nuriadevs)
