@@ -1,5 +1,5 @@
 
-![Banner](https://claude.ai/chat/media/banner.png)
+![Banner](media/banner.png)
 
 ## 👋 Welcome!
 
