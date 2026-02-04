@@ -118,8 +118,6 @@ I'm always interested in:
   
 ### ✨ Thanks for visiting! Happy coding! ✨
 
-![Visitor Count](https://komarev.com/ghpvc/?username=nuriadevs&color=blueviolet&style=for-the-badge)
-
 **⭐️ From [nuriadevs](https://github.com/nuriadevs) with 💜**
 
 </div>
