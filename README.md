@@ -2,7 +2,8 @@
 
 ## 👋 Welcome!
 
-I'm a **FullStack Developer specializing in Backend & AI**, passionate about building applications with real-world impact. I combine Backend development, AI techniques, and intuitive UI to create solutions that solve real problems.
+I'm a **FullStack Developer specializing in AI**, passionate about building applications with real-world impact. I combine Backend development, AI techniques, and intuitive UI to create solutions that solve real problems.
+
 
 
 ### 🌍 Currently open to remote opportunities and collaborative tech projects.
@@ -105,7 +106,7 @@ I'm always interested in:
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nuria-vazquez)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nuriadevs@gmail.com)
-[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nuriavazquez.dev/)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nuriavazquez.dev/en/)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/nuriadevs)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@nuriavazquezdev)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nuriadevs)
