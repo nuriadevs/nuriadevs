@@ -2,43 +2,15 @@
 
 ## 👋 Welcome!
 
-I'm a **FullStack Developer specializing in AI**, passionate about building applications with real-world impact. I combine Backend development, AI techniques, and intuitive UI to create solutions that solve real problems.
+I'm a **Junior Full-Stack Developer** , passionate about building applications with real-world impact. I combine backend development, AI techniques, and intuitive UI to create solutions that solve real problems.
 
 
+🌍 **Currently open to remote opportunities** — Full-Stack, Backend or AI roles.
 
-### 🌍 Currently open to remote opportunities and collaborative tech projects.
 
 ----------
 
 
-
-## 👩‍💻 About Me
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Nuria Vázquez"
-        self.current_role = "FullStack Developer & AI"
-        self.languages = {
-            "spanish": "Native",
-            "english": "Professional"
-        }
-        self.currently_learning = [
-            "Advanced Frontend development (React patterns, Next.js 15+)",
-            "Modern UI libraries: shadcn/ui, Radix UI, Framer Motion",
-            "AI/ML integration: Building AI agents",
-            "System Architecture for scalable applications"
-        ]
-        self.interests = [
-            "FullStack Development",
-            "AI Data Science & Analytics"
-        ]
-        
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something amazing together 🚀")
-
-me = Developer()
-me.say_hi()
-```
 
 
 
@@ -98,7 +70,6 @@ I'm always interested in:
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nuria-vazquez)
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nuriavazquez.dev/en/)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/nuriadevs)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@nuriavazquezdev)
 
 </div>
